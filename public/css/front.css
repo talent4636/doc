@@ -1,0 +1,13 @@
+/* xiejun @ 2015年03月16日16:17:15 */
+body{font-family: "微软雅黑";}
+div.main{width: 100%;}
+div.main .type-list{float: left;width: 19%;overflow: hidden;}
+div.main .type-list ul,div.page-main ul{list-style: none;}
+div.main .type-list ul a,div.page-main div.title a{text-decoration: none;}
+div.main .type-list ul li.list{padding: 5px 5px 5px 20px;margin: 5px 5px;border: 1px solid #337ab7;border-radius: 3px;background-color: #337ab7;color:#FFFFFF;}
+div.main .type-list ul li.list.active{background-color: #f4645f;border: 1px solid #f4645f;font-weight: bold;}
+div.page-main{float: left;width: 80%;overflow: hidden;}
+div.page-main div.title span.title{font-size: 20px;font-weight: 600;line-height: 20px;}
+div.page-main li{border:1px solid #DDD;border-radius: 3px;padding: 10px;height: 95px;overflow: hidden;}
+div.page-main div span.sorry{font-size: 20px;display: block;padding: 25px;}
+

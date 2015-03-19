@@ -1,0 +1,17 @@
+/*后台统一样式*/
+.btn-custom{margin:0px 3px;padding:2px 5px;color: #FFFFFF;background: #444;border:1px solid #777;
+    border-radius: 3px;line-height: 20px;margin-bottom: 10px;text-decoration: none;}
+.btn-custom:hover{color:#FFFFFF;background-color: #888;text-decoration: none;}
+.btn-custom.danger{background-color: #DA564A;border:1px solid #DA564A;}
+.btn-custom.danger:hover{background-color: red;}
+span.mark{padding:2px 5px;color:#FFFFFF;background:#DA564A;border: 1px solid #DA564A;
+    border-radius: 3px;  line-height: 20px;margin-bottom:10px;}
+.mark.blue{background-color: #337ab7;border:1px solid #337ab7;}
+.mark.green{background-color: green;}
+.mark.pink{background-color: #DA564A;}
+
+span.tag{padding:2px 5px;color:#FFFFFF;background:#DA564A;border: 1px solid #DA564A;border-radius: 3px; 
+    line-height: 20px;margin-bottom:10px;}
+span.bold-text{font-size: 16px;font-weight: bold;}
+.fr{float: right;}
+.fl{float: left;}
